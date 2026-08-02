@@ -63,7 +63,6 @@ This dashboard helps business managers and stakeholders monitor financial health
 The objective of this project is to build a financial analytics dashboard that provides real-time insights into business performance. The dashboard helps users monitor key financial metrics, identify trends, compare financial indicators, and support better decision-making.
 
 ---
+## 📸 Dashboard Preview
 
-## 📷 Dashboard Preview
-
-(Add your dashboard screenshot here.)
+![Financial Dashboard](Screenshot%202026-08-02%20114759.png)
